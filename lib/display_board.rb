@@ -1,5 +1,9 @@
-def dispaly_board
-  puts "Tic Tac Toe Board"
-end
+def display_board
+   puts row = ["   " "|" "   " "|" "   "]
+   puts separator = "-----------"
+   puts row
+   puts separator
+   puts row
+ end
 
 puts board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
