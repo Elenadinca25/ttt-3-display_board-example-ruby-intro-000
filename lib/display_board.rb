@@ -1,6 +1,9 @@
-def display_board
-  puts "A Tic Tac Toe Board"
+def dispaly_board
+  puts "Tic Tac Toe Board"
 end
 
-X = "1, 3, 5, 7, 9"
-0 = "2, 4, 6, 8"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
